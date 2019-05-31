@@ -1,0 +1,172 @@
+disable_obsidian_generators: true
+server_time_zone: EST
+warzone_radius: 650
+donate_url: store.reapermc.xyz
+spawn_buffer: 128
+map_number: 1
+kit_map: true
+disallowed_faction_names:
+- kohieotw
+- kohisotw
+- hcteams
+- hcteamsseotw
+- hcteamssotw
+- para
+- parahcf
+- parasotw
+- paraeotw
+- comborip
+- combodotrip
+enchantment_limits:
+  PROTECTION_ENVIRONMENTAL: 2
+  DAMAGE_ALL: 1
+  ARROW_KNOCKBACK: 0
+  KNOCKBACK: 0
+  FIRE_ASPECT: 0
+  THORNS: 0
+  ARROW_FIRE: 1
+  ARROW_DAMAGE: 3
+set_end_locations:
+  END_EXIT: 0.5,4.0,0.5
+  END_ENTRANCE: 24.516435887989815,63.0,8.154019033982204
+potion_limits:
+  STRENGTH: 0
+  WEAKNESS: 0
+  SLOWNESS: 0
+  INVISIBILITY: 0
+  POISON: 0
+road_lengths:
+  NORMAL: 4000
+  NETHER: 4000
+border_sizes:
+  NORMAL: 3000
+  NETHER: 2000
+  THE_END: 1500
+spawn_radius_map:
+  NORMAL: 50
+  NETHER: 25
+  THE_END: 15
+diamond_ore_alerts: false
+subclaim_name_characters_min: 3
+subclaim_name_characters_max: 16
+faction_name_characters_min: 3
+faction_name_characters_max: 16
+max_members_per_faction: 15
+road_distance: 2500
+road_min_height: 0
+road_max_height: 256
+end_portal_radius: 20
+end_portal_center: 750
+default_deathban_duration: 3600000
+teammate_colour: GREEN
+ally_colour: LIGHT_PURPLE
+enemy_colour: YELLOW
+safezone_colour: AQUA
+road_colour: GOLD
+warzone_colour: RED
+wilderness_colour: GREEN
+scoreboard_title: '&4&lReaper &7&l| &fHCF'
+max_allies_per_faction: 1
+max_claims_per_faction: 8
+allow_claiming_besides_roads: false
+dtr_millis_between_updates: 45000
+dtr_increment_between_updates: 0.1
+maximum_dtr: 6.0
+exp_multiplier_general: 2.0
+exp_multiplier_fishing: 2.0
+exp_multiplier_smelting: 2.0
+exp_multiplier_looting_per_level: 6.0
+exp_multiplier_luck_per_level: 1.5
+exp_multiplier_fortune_per_level: 1.5
+conquest_point_loss_per_death: 30
+conquest_required_win_points: 300
+found_diamonds_alerts: true
+combat_log_despawn_ticks: 600
+combat_log_prevention_enabled: true
+sql-host:
+  host: "localhost"
+  port: 3306
+  database: "test"
+  username: "root"
+  password: "root"
+Tablist:
+  0-1: ''
+  0-2: ''
+  0-3: '&e&lCurrent Ping'
+  0-4: '%ping%ms'
+  0-5: ''
+  0-6: ''
+  0-7: ''
+  0-8: '&6Build&7:'
+  0-9: '&ePlayers&7: &f%playercount_Build%/1000'
+  0-10: ''
+  0-11: ''
+  0-12: ''
+  0-13: ''
+  0-14: ''
+  0-15: ''
+  0-16: ''
+  0-17: '&6&lUptime'
+  0-18: '&e%uptime%'
+  0-19: ''
+  0-20: '&estore.cronos.cc'
+  1-1: '&6&lCronos'
+  1-2: ''
+  1-3: '&e&lCurrent Rank'
+  1-4: '%rank%'
+  1-5: ''
+  1-6: ''
+  1-7: ''
+  1-8: ''
+  1-9: ''
+  1-10: ''
+  1-11: ''
+  1-12: ''
+  1-13: ''
+  1-14: ''
+  1-15: ''
+  1-16: ''
+  1-17: ''
+  1-18: ''
+  1-19: ''
+  1-20: ''
+  2-1: ''
+  2-2: ''
+  2-3: '&e&lOnline Players'
+  2-4: '%online%'
+  2-5: ''
+  2-6: ''
+  2-7: ''
+  2-8: ''
+  2-9: ''
+  2-10: ''
+  2-11: ''
+  2-12: ''
+  2-13: ''
+  2-14: ''
+  2-15: ''
+  2-16: ''
+  2-17: ''
+  2-18: ''
+  2-19: ''
+  2-20: '&ewww.cronos.cc'
+  3-1: ''
+  3-2: ''
+  3-3: ''
+  3-4: ''
+  3-5: ''
+  3-6: ''
+  3-7: ''
+  3-8: ''
+  3-9: '&cWarning: &7We recommend'
+  3-10: using 1.8 for optimal
+  3-11: '&7playing experience'
+  3-12: ''
+  3-13: ''
+  3-14: ''
+  3-15: ''
+  3-16: ''
+  3-17: ''
+  3-18: ''
+  3-19: ''
+  3-20: ''

@@ -1,0 +1,105 @@
+users:
+  cbe4f03a-90c5-3499-8991-29d619462ff3:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: cbe4f03a-90c5-3499-8991-29d619462ff3
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '1529701410906'
+    kills: 0
+    deaths: 0
+    reclaimed: false
+  cd73c95c-f64e-3e39-8d3f-259469f297c1:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: cd73c95c-f64e-3e39-8d3f-259469f297c1
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '0'
+    kills: 0
+    deaths: 0
+    reclaimed: false
+  cc2c3eb0-2b2c-3193-9da9-e6fa59f24da2:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: cc2c3eb0-2b2c-3193-9da9-e6fa59f24da2
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '0'
+    kills: 0
+    deaths: 0
+    reclaimed: false
+  9aabe108-d2a8-312d-8c28-df235aa98c45:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: 9aabe108-d2a8-312d-8c28-df235aa98c45
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '0'
+    kills: 0
+    deaths: 0
+    reclaimed: false
+  e485c842-ed12-3c0e-8e9d-b3d776493e8c:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: e485c842-ed12-3c0e-8e9d-b3d776493e8c
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '0'
+    kills: 0
+    deaths: 0
+    reclaimed: false
+  83231d0b-82ca-36e6-82e1-6f79b383e566:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: 83231d0b-82ca-36e6-82e1-6f79b383e566
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '0'
+    kills: 0
+    deaths: 0
+    reclaimed: false
+  3d888af5-1208-3404-b78b-c7333528c5aa:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: 3d888af5-1208-3404-b78b-c7333528c5aa
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '1531239146033'
+    kills: 1
+    deaths: 0
+    reclaimed: false
+  ea1fdc9b-3b88-31c4-a53c-c69e67ac173b:
+    ==: me.rainnny.reaper.factionutils.FactionUser
+    shownScoreboardScores: []
+    faction-chat-spying: []
+    userUUID: ea1fdc9b-3b88-31c4-a53c-c69e67ac173b
+    capzoneEntryAlerts: false
+    showClaimMap: false
+    showLightning: true
+    deathban: null
+    lastFactionLeaveMillis: '0'
+    kills: 0
+    deaths: 0
+    reclaimed: false

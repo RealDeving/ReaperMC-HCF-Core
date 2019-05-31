@@ -1,0 +1,4 @@
+Iron:
+  permission: command.reclaim.iron
+  commands:
+  - broadcast test

@@ -1,0 +1,130 @@
+name: ReaperFACTIONS
+version: 1.0
+author: _Real
+main: me.rainny.reaper.HCF
+depend: [ReaperSTAFFMODE]
+softdepend: [ProtocolLib]
+commands:
+  hcf:
+  rawcast:
+  coords:
+  refund:
+    aliases: [inv, restore, invrestore]
+  ping:
+  freeze:
+     aliases: [ss]
+  spawn:
+  enderdragon:
+  hub:
+  this:
+  playtime:
+    aliases: [pt]
+  cobble:
+  staffinfo:
+      aliases: [staffbaninfo]
+  crowgive:
+     aliases: [crowbar, crowbargive]
+  titanium:
+  hcfhelp:
+      aliases: [help, ehelp]
+  conquest:
+    description: Command used to handle Conquest events.
+  savedata:
+    description: Save Server Data
+  economy:
+    aliases: [$, bal, money, eco, econ]
+    description: Command used to modify the economy.
+  eotw:
+    aliases: [endoftheworld]
+    description: Sets if the server is in End of the World mode.
+  event:
+    description: Command used to manage minigame events.
+  faction:
+    aliases: [f, fac]
+    description: Faction related commands.
+  gopple:
+    description: Command to check remaining OP apple cooldown time.
+    aliases: [opple, goppletimer, goppletime, oppletimer, oppletime]
+  hcf:
+    aliases: [hardcorefactions, hcfactions]
+  koth:
+    description: Make or delete KotH arenas.
+  lives:
+    description: Management of lives or deathbans.
+  location:
+    aliases: [loc]
+    description: Check the faction location of a player.
+  logout:
+    aliases: [disconnect]
+    description: Command to safely logout without an NPC spawning.
+  mapkit:
+    aliases: [viewkit]
+    description: Used to check the current map restrictions.
+  pay:
+    aliases: [p2p]
+    description: Allow players to pay money.
+  pvptimer:
+    aliases: [pvp]
+    description: Command to enable or disable pvp timer protection.
+  regen:
+    description: Check ETA until a faction is able to regenerate DTR.
+  servertime:
+    description: Checks the date and time of server.
+  sotw:
+    aliases: [startoftheworld]
+    description: Command used to manage start of the world.
+  spawncannon:
+    aliases: [cannon, playercannon]
+    description: Shoots you into the warzone.
+  staffrevive:
+    description: Command used by staff to revive players.
+  timer:
+    description: Command to manage timers.
+  togglebroadcasts:
+    aliases: [tb]
+    description: Toggle found diamond ore notifications.
+  togglecapzoneentry:
+    aliases: [togglecapentry]
+    description: Command used to hide or show capture zone entry messages.
+  togglelightning:
+    aliases: [lightningtoggle, togglestrikes]
+    description: Toggles the lightning strikes for when a player dies.
+  togglesidebar:
+    aliases: [sidebartoggle, sidebar, hud, togglehud]
+    description: Toggles the scoreboard timers displayed on sidebar.
+  rename:
+  resetstats:
+  ores:
+    description: See ores mined.
+    aliases: [stats, mined]
+  glowstonemountain:
+    aliases: [glowstonemtn, mtn, mountain, glowmountain, glowmtn, gmtn]
+  diamond:
+  archer:
+  bard:
+  miner:
+  reaper:
+  tab:
+  tentacion:
+    aliases: [x, xxx, xxxtentacion]
+    description: RIP XXXTentacion <3
+  tags:
+  lff:
+  lookingforfaction:
+  tc:
+    aliases: [tl, fc, teamcoordinates, telllocation]  
+    description: Command used to inform faction members your coordinates.
+  rec:
+  recording:
+  test1234:
+  reclaim:
+  set:
+  dev:
+  msg:
+   aliases: [tell, message, t, w, wisper]
+  reply:
+   aliases: [r]
+  togglepm:
+  sounds:
+  panic:
+  grimreaper:

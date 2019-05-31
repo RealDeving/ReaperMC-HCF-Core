@@ -1,0 +1,343 @@
+archer:
+  helmet:
+    type: LEATHER_HELMET
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  chest:
+    type: LEATHER_CHESTPLATE
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  legs:
+    type: LEATHER_LEGGINGS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  boots:
+    type: LEATHER_BOOTS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+      PROTECTION_FALL: 4
+  inv:
+    0:
+      type: DIAMOND_SWORD
+      enchantments:
+        DAMAGE_ALL: 1
+        DURABILITY: 3
+    1: 
+      type: BOW
+      enchantments:
+        ARROW_DAMAGE: 3
+        ARROW_FIRE: 1
+        ARROW_INFINITE: 1
+    2:
+      type: ENDER_PEARL
+      amount: 16
+    3:
+      type: SUGAR
+      amount: 32
+    4: 
+      type: POTION
+      durability: 8259
+    8: 
+      type: COOKED_BEEF
+      amount: 64
+    17:
+      type: ARROW
+
+
+diamond:
+  helmet:
+    type: DIAMOND_HELMET
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  chest:
+    type: DIAMOND_CHESTPLATE
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  legs:
+    type: DIAMOND_LEGGINGS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  boots:
+    type: DIAMOND_BOOTS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+      PROTECTION_FALL: 4
+  inv:
+    0: 
+      type: DIAMOND_SWORD
+      enchantments:
+        DAMAGE_ALL: 1
+        DURABILITY: 3
+    1:
+      type: ENDER_PEARL
+      amount: 16
+    2: 
+      type: POTION
+      durability: 8259
+    3: 
+      type: POTION
+      durability: 8226
+    8: 
+      type: COOKED_BEEF
+      amount: 64
+    17:
+      type: POTION
+      durability: 8226
+    26:
+      type: POTION
+      durability: 8226
+    35:
+      type: POTION
+      durability: 8226
+      
+bard:
+  helmet:
+    type: GOLD_HELMET
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  chest:
+    type: GOLD_CHESTPLATE
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  legs:
+    type: GOLD_LEGGINGS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  boots:
+    type: GOLD_BOOTS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+      PROTECTION_FALL: 4
+  inv:
+    0: 
+      type: DIAMOND_SWORD
+      enchantments:
+        DAMAGE_ALL: 1
+        DURABILITY: 3
+    1:
+      type: ENDER_PEARL
+      amount: 16
+    2: 
+      type: POTION
+      durability: 8259
+    4:
+      type: BLAZE_POWDER
+      amount: 32
+    5:
+      type: SUGAR
+      amount: 32
+    6:
+      type: FEATHER
+      amount: 32
+    7:
+      type: IRON_INGOT
+      amount: 32
+    8: 
+      type: COOKED_BEEF
+      amount: 64
+Builder:
+  helmet:
+    type: IRON_HELMET
+  chest:
+    type: IRON_CHESTPLATE
+  legs:
+    type: IRON_LEGGINGS
+  boots:
+    type: IRON_BOOTS
+  inv:
+    0: 
+      type: DIAMOND_SWORD
+      enchantments:
+        DAMAGE_ALL: 1
+        DURABILITY: 3
+    1:
+      type: ENDER_PEARL
+      amount: 16
+    2: 
+      type: STRING
+      amount: 64
+    3:
+      type: COBBLESTONE
+      amount: 64
+    4:
+      type: COBBLESTONE
+      amount: 64
+    5:
+      type: LOG
+      amount: 64
+    6:
+      type: LOG
+      amount: 64
+    7: 
+      type: PISTON_BASE
+      amount: 64
+    8:
+      type: PISTON_STICKY_BASE
+      amount: 64
+    9:
+      type: REDSTONE_BLOCK
+      amount: 64
+    10:
+      type: REDSTONE
+      amount: 64
+    11:
+      type: DIODE
+      amount: 64
+    12:
+      type: HOPPER
+      amount: 64
+    13:
+      type: REDSTONE_TORCH_ON
+      amount: 64
+    14: 
+      type: FENCE_GATE
+      amount: 64
+    15:
+      type: DIAMOND_PICKAXE
+      enchantments:
+        DIG_SPEED: 5
+        DURABILITY: 3
+      amount: 1
+    16:
+      type: DIAMOND_SPADE
+      enchantments:
+        DIG_SPEED: 5
+        DURABILITY: 3
+      amount: 1
+    17:
+      type: DIAMOND_AXE
+      enchantments:
+        DIG_SPEED: 5
+        DURABILITY: 3
+      amount: 1
+    18:
+      type: MINECART
+      amount: 64
+    19: 
+      type: PISTON_BASE
+      amount: 64
+    20:
+      type: COOKED_BEEF
+      amount: 64
+    21:
+      type: GLASS
+      amount: 64
+    22:
+      type: GLASS
+      amount: 64
+    23:
+      type: STONE
+      amount: 64
+    24:
+      type: STONE
+      amount: 64
+    25:
+      type: SAND
+      amount: 64
+    26:
+      type: SAND
+      amount: 64
+    27:
+      type: GRASS
+      amount: 64
+    28:
+      type: WATER_BUCKET
+      amount: 1
+    29:
+      type: WATER_BUCKET
+      amount: 1
+Fishermen:
+  helmet:
+    type: GOLD_HELMET
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  chest:
+    type: LEATHER_CHESTPLATE
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  legs:
+    type: GOLD_LEGGINGS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  boots:
+    type: LEATHER_BOOTS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  inv:
+    0:
+      type: DIAMOND_SWORD
+      enchantments:
+        DAMAGE_ALL: 1
+        DURABILITY: 3
+      amount: 1
+    1:
+      type: BOW
+      enchantments:
+        ARROW_DAMAGE: 3
+        ARROW_FIRE: 1
+        ARROW_INFINITE: 1
+    2:
+      type: FISHING_ROD
+      enchantments:
+        DURABILITY: 3
+    8:
+      type: ENDER_PEARL
+      amount: 16
+    17:
+      type: ARROW
+Rogue:
+  helmet:
+    type: CHAINMAIL_HELMET
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  chest:
+    type: CHAINMAIL_CHESTPLATE
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  legs:
+    type: CHAINMAIL_LEGGINGS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  boots:
+    type: CHAINMAIL_BOOTS
+    enchantments:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 3
+  inv:
+    0:
+      type: DIAMOND_SWORD
+      enchantments:
+        DAMAGE_ALL: 1
+        DURABILITY: 3
+      amount: 1
+    1:
+      type: GOLD_SWORD
+      amount: 1
+    2:
+      type: GOLD_SWORD
+      amount: 1
+    3:
+      type: ENDER_PEARL
+      amount: 16
+    8: 
+      type: COOKED_BEEF
+      amount: 64

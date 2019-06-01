@@ -1,6 +1,6 @@
 name: ReaperFACTIONS
 version: 1.0
-author: _Real
+author: Rainnny
 main: me.rainny.reaper.HCF
 depend: [ReaperSTAFFMODE]
 softdepend: [ProtocolLib]
